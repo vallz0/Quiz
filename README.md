@@ -1,3 +1,2 @@
 # Quiz
-Projeto simples feito em python, com intuito de aplicar programação orientada a objetos, algumas boas praticas em python e type hints.
-Execute o main.py
+Simple project made in Python, with the aim of applying object-oriented programming, some good practices in Python and type hints
