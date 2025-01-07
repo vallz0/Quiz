@@ -20,7 +20,7 @@ class Questions:
         print("\nAcabou!")
         print(f"Pontuação final: {self.score}")
 
-    def get_score(self):
+    def get_score(self) -> int:
         return int(self.score)
 
 
